@@ -1,0 +1,6 @@
+# Closure Note - Finance Shared Drives Unavailable
+
+**Incident:** INC-2024-0315-FIN-DRIVES  
+**Resolved:** 2026-08-06 10:00  
+
+Resolved. Cause: the Finance drive mapping script was migrated on 2024-03-14 23:30 from a GPO logon script running in USER context to an Intune PowerShell script running in SYSTEM context without redesign for that execution model; the script then attempted to access `\\finbridge-fs01\Finance` too early and under the wrong security principal, failed with `Network name cannot be found`, and left drive `S:` unmapped for Finance users. Action: the broken SYSTEM-context Intune deployment was disabled or removed, the correct user-context mapping method was restored, and successful user logon and shared-drive access were verified at 10:00 with no further issues reported. Preventive: require execution-context review and user-session validation before migrating any user-resource mapping from GPO to Intune, and add delayed execution or retry controls so early startup timing does not leave mapped drives unavailable. User confirmed working.
