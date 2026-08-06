@@ -1,0 +1,5 @@
+2026-08-05 06:29:21.118 [INFO] Rollback requested. Manifest: C:\Users\labuser\Documents\Training\Day3\temp-cleanup-state\manifest-20260805-062820-fb8ea683-44b9-4375-befa-a78e54feea05.csv
+2026-08-05 06:29:21.150 [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\cv_debug.log
+2026-08-05 06:29:21.150 [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+2026-08-05 06:29:21.150 [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+2026-08-05 06:29:21.166 [INFO] Rollback summary: Restored=3, Skipped=0, Errors=0

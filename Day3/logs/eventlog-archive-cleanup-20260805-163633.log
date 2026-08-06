@@ -1,0 +1,15 @@
+2026-08-05 16:36:33.424 [ERROR] Failed to enumerate logs for pattern '*'. Could not retrieve information about the Security log. Error: Attempted to perform an unauthorized operation..
+2026-08-05 16:36:33.463 [WARN] No logs found to evaluate.
+2026-08-05 16:36:33.472 [INFO] Dry run: 0 log(s) would be cleared, deleting 0 total record(s).
+2026-08-05 16:36:33.487 [INFO] Run summary (dry run mode):
+2026-08-05 16:36:33.487 [INFO]   LogsEvaluated: 0
+2026-08-05 16:36:33.487 [INFO]   CandidateLogs: 0
+2026-08-05 16:36:33.487 [INFO]   CandidateRecords: 0
+2026-08-05 16:36:33.487 [INFO]   ArchivedLogs: 0
+2026-08-05 16:36:33.503 [INFO]   ClearedLogs: 0
+2026-08-05 16:36:33.503 [INFO]   DryRunLogs: 0
+2026-08-05 16:36:33.503 [INFO]   DryRunRecords: 0
+2026-08-05 16:36:33.503 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:36:33.503 [INFO]   SkippedLogs: 0
+2026-08-05 16:36:33.503 [INFO]   RollbackRestored: 0
+2026-08-05 16:36:33.503 [INFO]   Errors: 1

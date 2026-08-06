@@ -1,0 +1,15 @@
+2026-08-05 16:37:24.354 [ERROR] Failed to enumerate logs for pattern '*'. Could not retrieve information about the Security log. Error: Attempted to perform an unauthorized operation..
+2026-08-05 16:37:24.354 [WARN] No logs found to evaluate.
+2026-08-05 16:37:24.354 [WARN] No successful archive/clear operations; manifest not created.
+2026-08-05 16:37:24.354 [INFO] Run summary:
+2026-08-05 16:37:24.370 [INFO]   LogsEvaluated: 0
+2026-08-05 16:37:24.370 [INFO]   CandidateLogs: 0
+2026-08-05 16:37:24.370 [INFO]   CandidateRecords: 0
+2026-08-05 16:37:24.377 [INFO]   ArchivedLogs: 0
+2026-08-05 16:37:24.377 [INFO]   ClearedLogs: 0
+2026-08-05 16:37:24.377 [INFO]   DryRunLogs: 0
+2026-08-05 16:37:24.386 [INFO]   DryRunRecords: 0
+2026-08-05 16:37:24.386 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:37:24.386 [INFO]   SkippedLogs: 0
+2026-08-05 16:37:24.386 [INFO]   RollbackRestored: 0
+2026-08-05 16:37:24.386 [INFO]   Errors: 1

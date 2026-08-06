@@ -1,0 +1,2 @@
+Team:
+Hi team, access is restored and no data was lost. A Windows 11 upgrade removed the old connection app, and the new one did not reinstall automatically because of a device-check gap. We removed old connection records, forced a company sync, installed the new app, applied the split connection settings, and confirmed access to all internal systems. If you see this again, contact the Service Desk and mention the Windows 11 VPN reinstall issue. For help, contact the DWP Service Desk.

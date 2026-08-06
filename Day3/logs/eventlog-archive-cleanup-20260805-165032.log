@@ -1,0 +1,433 @@
+2026-08-05 16:50:33.541 [INFO] Skipping recent log: Windows PowerShell (LastWriteTime=8/5/2026 4:47:37 PM)
+2026-08-05 16:50:33.579 [INFO] Skipping empty log: Windows Azure
+2026-08-05 16:50:33.579 [INFO] Skipping recent log: System (LastWriteTime=8/5/2026 4:48:46 PM)
+2026-08-05 16:50:33.579 [INFO] Skipping recent log: Security (LastWriteTime=8/5/2026 4:48:48 PM)
+2026-08-05 16:50:33.579 [INFO] Skipping empty log: Key Management Service
+2026-08-05 16:50:33.588 [INFO] Skipping empty log: Internet Explorer
+2026-08-05 16:50:33.588 [INFO] Skipping empty log: HardwareEvents
+2026-08-05 16:50:33.588 [INFO] Skipping recent log: Application (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.588 [WARN] Skipping disabled log: Windows Networking Vpn Plugin Platform/OperationalVerbose
+2026-08-05 16:50:33.588 [WARN] Skipping disabled log: Windows Networking Vpn Plugin Platform/Operational
+2026-08-05 16:50:33.588 [INFO] Skipping empty log: SMSApi
+2026-08-05 16:50:33.588 [INFO] Skipping empty log: Setup
+2026-08-05 16:50:33.635 [INFO] Skipping empty log: OpenSSH/Operational
+2026-08-05 16:50:33.650 [INFO] Skipping empty log: OpenSSH/Admin
+2026-08-05 16:50:33.650 [WARN] Skipping disabled log: Network Isolation Operational
+2026-08-05 16:50:33.650 [INFO] Skipping recent log: Microsoft-WindowsAzure-Status/Plugins (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.666 [INFO] Skipping recent log: Microsoft-WindowsAzure-Status/GuestAgent (LastWriteTime=8/5/2026 4:45:14 PM)
+2026-08-05 16:50:33.666 [INFO] Skipping empty log: Microsoft-WindowsAzure-Diagnostics/Runtime
+2026-08-05 16:50:33.666 [INFO] Skipping recent log: Microsoft-WindowsAzure-Diagnostics/Heartbeat (LastWriteTime=8/5/2026 4:49:57 PM)
+2026-08-05 16:50:33.666 [INFO] Skipping recent log: Microsoft-WindowsAzure-Diagnostics/GuestAgent (LastWriteTime=8/5/2026 4:50:11 PM)
+2026-08-05 16:50:33.682 [INFO] Skipping empty log: Microsoft-WindowsAzure-Diagnostics/Bootstrapper
+2026-08-05 16:50:33.682 [INFO] Skipping empty log: Microsoft-Windows-WPD-MTPClassDriver/Operational
+2026-08-05 16:50:33.682 [INFO] Skipping empty log: Microsoft-Windows-WPD-CompositeClassDriver/Operational
+2026-08-05 16:50:33.682 [INFO] Skipping empty log: Microsoft-Windows-WPD-ClassInstaller/Operational
+2026-08-05 16:50:33.697 [INFO] Skipping empty log: Microsoft-Windows-Workplace Join/Admin
+2026-08-05 16:50:33.697 [WARN] Skipping disabled log: Microsoft-Windows-Wordpad/Admin
+2026-08-05 16:50:33.697 [INFO] Skipping empty log: Microsoft-Windows-WMPNSS-Service/Operational
+2026-08-05 16:50:33.697 [INFO] Skipping recent log: Microsoft-Windows-WMI-Activity/Operational (LastWriteTime=8/5/2026 4:49:47 PM)
+2026-08-05 16:50:33.697 [INFO] Skipping empty log: Microsoft-Windows-Wired-AutoConfig/Operational
+2026-08-05 16:50:33.713 [INFO] Skipping empty log: Microsoft-Windows-Winsock-WS2HELP/Operational
+2026-08-05 16:50:33.713 [WARN] Skipping disabled log: Microsoft-Windows-Winsock-NameResolution/Operational
+2026-08-05 16:50:33.713 [WARN] Skipping disabled log: Microsoft-Windows-Winsock-AFD/Operational
+2026-08-05 16:50:33.713 [INFO] Skipping recent log: Microsoft-Windows-WinRM/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.713 [WARN] Skipping disabled log: Microsoft-Windows-WinNat/Oper
+2026-08-05 16:50:33.713 [INFO] Skipping recent log: Microsoft-Windows-Winlogon/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.729 [INFO] Skipping empty log: Microsoft-Windows-WinINet/Operational
+2026-08-05 16:50:33.729 [INFO] Skipping recent log: Microsoft-Windows-WinINet-Config/ProxyConfigChanged (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:33.729 [WARN] Skipping disabled log: Microsoft-Windows-WinINet-Capture/Analytic
+2026-08-05 16:50:33.744 [INFO] Skipping empty log: Microsoft-Windows-WinHttp/Operational
+2026-08-05 16:50:33.744 [WARN] Skipping disabled log: Microsoft-Windows-WinHTTP-NDF/Diagnostic
+2026-08-05 16:50:33.744 [INFO] Skipping recent log: Microsoft-Windows-WindowsUpdateClient/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.744 [WARN] Skipping disabled log: Microsoft-Windows-WindowsUIImmersive/Operational
+2026-08-05 16:50:33.744 [INFO] Skipping empty log: Microsoft-Windows-WindowsSystemAssessmentTool/Operational
+2026-08-05 16:50:33.744 [WARN] Skipping disabled log: Microsoft-Windows-WindowsColorSystem/Operational
+2026-08-05 16:50:33.744 [WARN] Skipping disabled log: Microsoft-Windows-Windows Firewall With Advanced Security/FirewallVerbose
+2026-08-05 16:50:33.760 [INFO] Skipping empty log: Microsoft-Windows-Windows Firewall With Advanced Security/FirewallDiagnostics
+2026-08-05 16:50:33.760 [INFO] Skipping recent log: Microsoft-Windows-Windows Firewall With Advanced Security/Firewall (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.760 [WARN] Skipping disabled log: Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurityVerbose
+2026-08-05 16:50:33.760 [INFO] Skipping empty log: Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity
+2026-08-05 16:50:33.760 [INFO] Skipping empty log: Microsoft-Windows-Windows Defender/WHC
+2026-08-05 16:50:33.775 [INFO] Skipping recent log: Microsoft-Windows-Windows Defender/Operational (LastWriteTime=8/5/2026 4:45:18 PM)
+2026-08-05 16:50:33.775 [INFO] Skipping empty log: Microsoft-Windows-Win32k/Operational
+2026-08-05 16:50:33.775 [INFO] Skipping recent log: Microsoft-Windows-WFP/Operational (LastWriteTime=8/3/2026 7:44:27 AM)
+2026-08-05 16:50:33.775 [INFO] Skipping recent log: Microsoft-Windows-WER-PayloadHealth/Operational (LastWriteTime=8/3/2026 7:44:27 AM)
+2026-08-05 16:50:33.775 [WARN] Skipping disabled log: Microsoft-Windows-WEPHOSTSVC/Operational
+2026-08-05 16:50:33.791 [WARN] Skipping disabled log: Microsoft-Windows-WebIO-NDF/Diagnostic
+2026-08-05 16:50:33.791 [INFO] Skipping recent log: Microsoft-Windows-WebAuthN/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.791 [WARN] Skipping disabled log: Microsoft-Windows-WebAuth/Operational
+2026-08-05 16:50:33.791 [INFO] Skipping recent log: Microsoft-Windows-Wcmsvc/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.791 [INFO] Skipping empty log: Microsoft-Windows-VPN/Operational
+2026-08-05 16:50:33.791 [INFO] Skipping empty log: Microsoft-Windows-VPN-Client/Operational
+2026-08-05 16:50:33.791 [INFO] Skipping recent log: Microsoft-Windows-VolumeSnapshot-Driver/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.807 [INFO] Skipping empty log: Microsoft-Windows-VHDMP-Operational
+2026-08-05 16:50:33.807 [WARN] Skipping disabled log: Microsoft-Windows-VerifyHardwareSecurity/Operational
+2026-08-05 16:50:33.807 [INFO] Skipping empty log: Microsoft-Windows-VerifyHardwareSecurity/Admin
+2026-08-05 16:50:33.807 [INFO] Skipping empty log: Microsoft-Windows-VDRVROOT/Operational
+2026-08-05 16:50:33.807 [INFO] Skipping recent log: Microsoft-Windows-UserPnp/DeviceInstall (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:33.807 [INFO] Skipping empty log: Microsoft-Windows-UserPnp/ActionCenter
+2026-08-05 16:50:33.807 [INFO] Skipping empty log: Microsoft-Windows-User-Loader/Operational
+2026-08-05 16:50:33.807 [INFO] Skipping recent log: Microsoft-Windows-User Profile Service/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.822 [INFO] Skipping recent log: Microsoft-Windows-User Device Registration/Admin (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.822 [INFO] Skipping empty log: Microsoft-Windows-User Control Panel/Operational
+2026-08-05 16:50:33.822 [INFO] Skipping recent log: Microsoft-Windows-UniversalTelemetryClient/Operational (LastWriteTime=8/5/2026 4:45:03 PM)
+2026-08-05 16:50:33.822 [INFO] Skipping empty log: Microsoft-Windows-UAC/Operational
+2026-08-05 16:50:33.822 [INFO] Skipping empty log: Microsoft-Windows-UAC-FileVirtualization/Operational
+2026-08-05 16:50:33.822 [INFO] Skipping empty log: Microsoft-Windows-TZUtil/Operational
+2026-08-05 16:50:33.822 [INFO] Skipping recent log: Microsoft-Windows-TZSync/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:33.838 [INFO] Skipping recent log: Microsoft-Windows-TWinUI/Operational (LastWriteTime=8/3/2026 7:12:10 PM)
+2026-08-05 16:50:33.838 [INFO] Skipping recent log: Microsoft-Windows-Time-Service/Operational (LastWriteTime=8/5/2026 4:40:45 PM)
+2026-08-05 16:50:33.838 [INFO] Skipping empty log: Microsoft-Windows-Time-Service-PTP-Provider/PTP-Operational
+2026-08-05 16:50:33.838 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-SessionBroker-Client/Operational
+2026-08-05 16:50:33.838 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-SessionBroker-Client/Admin
+2026-08-05 16:50:33.854 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-ServerUSBDevices/Operational
+2026-08-05 16:50:33.854 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-ServerUSBDevices/Admin
+2026-08-05 16:50:33.854 [INFO] Skipping recent log: Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.854 [INFO] Skipping recent log: Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.854 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-RDPClient/Operational
+2026-08-05 16:50:33.854 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-Printers/Operational
+2026-08-05 16:50:33.854 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-Printers/Admin
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-PnPDevices/Operational
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-PnPDevices/Admin
+2026-08-05 16:50:33.869 [INFO] Skipping recent log: Microsoft-Windows-TerminalServices-LocalSessionManager/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-LocalSessionManager/Admin
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-ClientUSBDevices/Operational
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TerminalServices-ClientUSBDevices/Admin
+2026-08-05 16:50:33.869 [INFO] Skipping empty log: Microsoft-Windows-TCPIP/Operational
+2026-08-05 16:50:33.885 [WARN] Skipping disabled log: Microsoft-Windows-TaskScheduler/Operational
+2026-08-05 16:50:33.885 [INFO] Skipping recent log: Microsoft-Windows-TaskScheduler/Maintenance (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:33.885 [INFO] Skipping empty log: Microsoft-Windows-SystemSettingsThreshold/Operational
+2026-08-05 16:50:33.885 [INFO] Skipping recent log: Microsoft-Windows-SystemDataArchiver/Diagnostic (LastWriteTime=8/5/2026 4:50:04 PM)
+2026-08-05 16:50:33.885 [INFO] Skipping recent log: Microsoft-Windows-Storsvc/Diagnostic (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:33.885 [INFO] Skipping recent log: Microsoft-Windows-Store/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.885 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-SpaceManager/Operational
+2026-08-05 16:50:33.900 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-SpaceManager/Diagnostic
+2026-08-05 16:50:33.900 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-Parser/Operational
+2026-08-05 16:50:33.900 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-Parser/Diagnostic
+2026-08-05 16:50:33.900 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-ManagementAgent/WHC
+2026-08-05 16:50:33.900 [INFO] Skipping recent log: Microsoft-Windows-StorageSpaces-Driver/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.916 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-Driver/Diagnostic
+2026-08-05 16:50:33.916 [INFO] Skipping empty log: Microsoft-Windows-StorageSpaces-Api/Operational
+2026-08-05 16:50:33.916 [INFO] Skipping empty log: Microsoft-Windows-StorageSettings/Diagnostic
+2026-08-05 16:50:33.916 [INFO] Skipping recent log: Microsoft-Windows-StorageManagement/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:33.916 [INFO] Skipping empty log: Microsoft-Windows-StorageManagement-PartUtil/Operational
+2026-08-05 16:50:33.916 [INFO] Skipping empty log: Microsoft-Windows-Storage-Tiering/Admin
+2026-08-05 16:50:33.916 [INFO] Skipping recent log: Microsoft-Windows-Storage-Storport/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:33.932 [INFO] Skipping empty log: Microsoft-Windows-Storage-Storport/Health
+2026-08-05 16:50:33.932 [WARN] Skipping disabled log: Microsoft-Windows-Storage-Storport/Admin
+2026-08-05 16:50:33.932 [WARN] Skipping disabled log: Microsoft-Windows-Storage-Disk/Operational
+2026-08-05 16:50:33.932 [WARN] Skipping disabled log: Microsoft-Windows-Storage-Disk/Admin
+2026-08-05 16:50:33.932 [INFO] Skipping empty log: Microsoft-Windows-Storage-ClassPnP/Operational
+2026-08-05 16:50:33.947 [WARN] Skipping disabled log: Microsoft-Windows-Storage-ClassPnP/Admin
+2026-08-05 16:50:33.947 [WARN] Skipping disabled log: Microsoft-Windows-Storage-ATAPort/Operational
+2026-08-05 16:50:33.947 [WARN] Skipping disabled log: Microsoft-Windows-Storage-ATAPort/Admin
+2026-08-05 16:50:33.947 [INFO] Skipping empty log: Microsoft-Windows-StateRepository/Restricted
+2026-08-05 16:50:33.947 [INFO] Skipping recent log: Microsoft-Windows-StateRepository/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.947 [INFO] Skipping empty log: Microsoft-Windows-SMBWitnessClient/Informational
+2026-08-05 16:50:33.947 [INFO] Skipping empty log: Microsoft-Windows-SMBWitnessClient/Admin
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SMBServer/Security
+2026-08-05 16:50:33.963 [INFO] Skipping recent log: Microsoft-Windows-SMBServer/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SMBServer/Connectivity
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SMBServer/Audit
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SMBDirect/Admin
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SmbClient/Security
+2026-08-05 16:50:33.963 [INFO] Skipping empty log: Microsoft-Windows-SMBClient/Operational
+2026-08-05 16:50:33.979 [INFO] Skipping recent log: Microsoft-Windows-SmbClient/Connectivity (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:33.979 [INFO] Skipping empty log: Microsoft-Windows-SmbClient/Audit
+2026-08-05 16:50:33.979 [WARN] Skipping disabled log: Microsoft-Windows-SmartScreen/Debug
+2026-08-05 16:50:33.979 [INFO] Skipping empty log: Microsoft-Windows-SmartCard-TPM-VCard-Module/Operational
+2026-08-05 16:50:33.979 [INFO] Skipping empty log: Microsoft-Windows-SmartCard-TPM-VCard-Module/Admin
+2026-08-05 16:50:33.979 [INFO] Skipping empty log: Microsoft-Windows-SmartCard-DeviceEnum/Operational
+2026-08-05 16:50:33.979 [INFO] Skipping empty log: Microsoft-Windows-SmartCard-Audit/Authentication
+2026-08-05 16:50:33.994 [INFO] Skipping empty log: Microsoft-Windows-SilProvider/Operational
+2026-08-05 16:50:33.994 [INFO] Skipping recent log: Microsoft-Windows-ShellCommon-StartLayoutPopulation/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.994 [INFO] Skipping recent log: Microsoft-Windows-Shell-Core/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:33.994 [INFO] Skipping empty log: Microsoft-Windows-Shell-Core/LogonTasksChannel
+2026-08-05 16:50:33.994 [INFO] Skipping recent log: Microsoft-Windows-Shell-Core/AppDefaults (LastWriteTime=8/5/2026 4:48:48 PM)
+2026-08-05 16:50:34.010 [INFO] Skipping empty log: Microsoft-Windows-Shell-Core/ActionCenter
+2026-08-05 16:50:34.010 [INFO] Skipping empty log: Microsoft-Windows-Shell-ConnectedAccountState/ActionCenter
+2026-08-05 16:50:34.010 [WARN] Skipping disabled log: Microsoft-Windows-ServiceReportingApi/Debug
+2026-08-05 16:50:34.010 [INFO] Skipping recent log: Microsoft-Windows-ServerManager-MultiMachine/Operational (LastWriteTime=8/3/2026 7:44:27 AM)
+2026-08-05 16:50:34.010 [INFO] Skipping empty log: Microsoft-Windows-ServerManager-MultiMachine/Admin
+2026-08-05 16:50:34.010 [INFO] Skipping recent log: Microsoft-Windows-ServerManager-MgmtProvider/Operational (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.010 [INFO] Skipping recent log: Microsoft-Windows-ServerManager-DeploymentProvider/Operational (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.025 [INFO] Skipping empty log: Microsoft-Windows-ServerManager-ConfigureSMRemoting/Operational
+2026-08-05 16:50:34.025 [INFO] Skipping empty log: Microsoft-Windows-SenseIR/Operational
+2026-08-05 16:50:34.025 [INFO] Skipping empty log: Microsoft-Windows-SENSE/Operational
+2026-08-05 16:50:34.025 [INFO] Skipping empty log: Microsoft-Windows-SecurityMitigationsBroker/Operational
+2026-08-05 16:50:34.025 [WARN] Skipping disabled log: Microsoft-Windows-SecurityMitigationsBroker/Admin
+2026-08-05 16:50:34.025 [INFO] Skipping empty log: Microsoft-Windows-Security-UserConsentVerifier/Audit
+2026-08-05 16:50:34.025 [INFO] Skipping recent log: Microsoft-Windows-Security-SPP-UX-Notifications/ActionCenter (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.041 [INFO] Skipping empty log: Microsoft-Windows-Security-SPP-UX-GenuineCenter-Logging/Operational
+2026-08-05 16:50:34.041 [INFO] Skipping empty log: Microsoft-Windows-Security-Netlogon/Operational
+2026-08-05 16:50:34.041 [INFO] Skipping empty log: Microsoft-Windows-Security-Mitigations/UserMode
+2026-08-05 16:50:34.041 [INFO] Skipping recent log: Microsoft-Windows-Security-Mitigations/KernelMode (LastWriteTime=8/5/2026 4:40:45 PM)
+2026-08-05 16:50:34.041 [INFO] Skipping empty log: Microsoft-Windows-Security-LessPrivilegedAppContainer/Operational
+2026-08-05 16:50:34.041 [WARN] Skipping disabled log: Microsoft-Windows-Security-ExchangeActiveSyncProvisioning/Operational
+2026-08-05 16:50:34.041 [INFO] Skipping empty log: Microsoft-Windows-Security-EnterpriseData-FileRevocationManager/Operational
+2026-08-05 16:50:34.057 [INFO] Skipping empty log: Microsoft-Windows-Security-Audit-Configuration-Client/Operational
+2026-08-05 16:50:34.057 [INFO] Skipping empty log: Microsoft-Windows-Security-Adminless/Operational
+2026-08-05 16:50:34.057 [INFO] Skipping empty log: Microsoft-Windows-SearchUI/Operational
+2026-08-05 16:50:34.057 [WARN] Skipping disabled log: Microsoft-Windows-RRAS/Operational
+2026-08-05 16:50:34.072 [INFO] Skipping empty log: Microsoft-Windows-RestartManager/Operational
+2026-08-05 16:50:34.072 [INFO] Skipping recent log: Microsoft-Windows-Resource-Exhaustion-Resolver/Operational (LastWriteTime=8/3/2026 7:44:27 AM)
+2026-08-05 16:50:34.072 [INFO] Skipping recent log: Microsoft-Windows-Resource-Exhaustion-Detector/Operational (LastWriteTime=8/5/2026 4:40:45 PM)
+2026-08-05 16:50:34.072 [WARN] Skipping disabled log: Microsoft-Windows-Remotefs-Rdbss/Operational
+2026-08-05 16:50:34.072 [INFO] Skipping empty log: Microsoft-Windows-RemoteDesktopServices-SessionServices/Operational
+2026-08-05 16:50:34.072 [INFO] Skipping recent log: Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.072 [INFO] Skipping empty log: Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Admin
+2026-08-05 16:50:34.088 [INFO] Skipping empty log: Microsoft-Windows-RemoteApp and Desktop Connections/Operational
+2026-08-05 16:50:34.088 [INFO] Skipping empty log: Microsoft-Windows-RemoteApp and Desktop Connections/Admin
+2026-08-05 16:50:34.088 [INFO] Skipping empty log: Microsoft-Windows-Regsvr32/Operational
+2026-08-05 16:50:34.088 [INFO] Skipping empty log: Microsoft-Windows-ReFS/Operational
+2026-08-05 16:50:34.088 [INFO] Skipping empty log: Microsoft-Windows-ReadyBoost/Operational
+2026-08-05 16:50:34.104 [WARN] Skipping disabled log: Microsoft-Windows-RasAgileVpn/Operational
+2026-08-05 16:50:34.104 [INFO] Skipping recent log: Microsoft-Windows-PushNotification-Platform/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.104 [INFO] Skipping empty log: Microsoft-Windows-PushNotification-Platform/Admin
+2026-08-05 16:50:34.104 [WARN] Skipping disabled log: Microsoft-Windows-Proximity-Common/Diagnostic
+2026-08-05 16:50:34.104 [INFO] Skipping empty log: Microsoft-Windows-Program-Compatibility-Assistant/CompatAfterUpgrade
+2026-08-05 16:50:34.104 [WARN] Skipping disabled log: Microsoft-Windows-Program-Compatibility-Assistant/Analytic
+2026-08-05 16:50:34.104 [INFO] Skipping recent log: Microsoft-Windows-Privacy-Auditing/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.104 [WARN] Skipping disabled log: Microsoft-Windows-PrintService/Operational
+2026-08-05 16:50:34.119 [INFO] Skipping recent log: Microsoft-Windows-PrintService/Admin (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.119 [INFO] Skipping empty log: Microsoft-Windows-PrintBRM/Admin
+2026-08-05 16:50:34.119 [INFO] Skipping recent log: Microsoft-Windows-PowerShell/Operational (LastWriteTime=8/5/2026 4:50:29 PM)
+2026-08-05 16:50:34.119 [INFO] Skipping empty log: Microsoft-Windows-PowerShell/Admin
+2026-08-05 16:50:34.119 [INFO] Skipping empty log: Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Operational
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-Policy/Operational
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-PersistentMemory-ScmBus/Operational
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-PersistentMemory-ScmBus/Certification
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-PersistentMemory-PmemDisk/Operational
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-PersistentMemory-Nvdimm/Operational
+2026-08-05 16:50:34.135 [INFO] Skipping empty log: Microsoft-Windows-PerceptionSensorDataService/Operational
+2026-08-05 16:50:34.150 [INFO] Skipping empty log: Microsoft-Windows-PerceptionRuntime/Operational
+2026-08-05 16:50:34.150 [INFO] Skipping empty log: Microsoft-Windows-PCRPF/PCRPF
+2026-08-05 16:50:34.150 [INFO] Skipping recent log: Microsoft-Windows-Partition/Diagnostic (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.150 [WARN] Skipping disabled log: Microsoft-Windows-OtpCredentialProvider/Operational
+2026-08-05 16:50:34.150 [INFO] Skipping empty log: Microsoft-Windows-OOBE-Machine-DUI/Operational
+2026-08-05 16:50:34.150 [WARN] Skipping disabled log: Microsoft-Windows-OneX/Operational
+2026-08-05 16:50:34.172 [INFO] Skipping empty log: Microsoft-Windows-OfflineFiles/Operational
+2026-08-05 16:50:34.175 [INFO] Skipping empty log: Microsoft-Windows-NTLM/Operational
+2026-08-05 16:50:34.180 [INFO] Skipping recent log: Microsoft-Windows-Ntfs/WHC (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.187 [INFO] Skipping recent log: Microsoft-Windows-Ntfs/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.194 [INFO] Skipping empty log: Microsoft-Windows-NlaSvc/Operational
+2026-08-05 16:50:34.197 [INFO] Skipping empty log: Microsoft-Windows-NetworkProvider/Operational
+2026-08-05 16:50:34.200 [INFO] Skipping recent log: Microsoft-Windows-NetworkProfile/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.203 [INFO] Skipping empty log: Microsoft-Windows-NetworkLocationWizard/Operational
+2026-08-05 16:50:34.205 [INFO] Skipping empty log: Microsoft-Windows-NdisImPlatform/Operational
+2026-08-05 16:50:34.207 [WARN] Skipping disabled log: Microsoft-Windows-NDIS/Operational
+2026-08-05 16:50:34.209 [INFO] Skipping recent log: Microsoft-Windows-NCSI/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.212 [WARN] Skipping disabled log: Microsoft-Windows-Ncasvc/Operational
+2026-08-05 16:50:34.215 [INFO] Skipping empty log: Microsoft-Windows-MUI/Operational
+2026-08-05 16:50:34.217 [INFO] Skipping empty log: Microsoft-Windows-MUI/Admin
+2026-08-05 16:50:34.219 [WARN] Skipping disabled log: Microsoft-Windows-MSPaint/Admin
+2026-08-05 16:50:34.221 [INFO] Skipping empty log: Microsoft-Windows-MsLbfoProvider/Operational
+2026-08-05 16:50:34.224 [INFO] Skipping empty log: Microsoft-Windows-Mprddm/Operational
+2026-08-05 16:50:34.227 [INFO] Skipping empty log: Microsoft-Windows-MiStreamProvider/Operational
+2026-08-05 16:50:34.230 [INFO] Skipping empty log: Microsoft-Windows-MemoryDiagnostics-Results/Debug
+2026-08-05 16:50:34.232 [WARN] Skipping disabled log: Microsoft-Windows-MediaFoundation-Performance/SARStreamResource
+2026-08-05 16:50:34.234 [INFO] Skipping empty log: Microsoft-Windows-ManagementTools-TaskManagerProvider/Operational
+2026-08-05 16:50:34.236 [INFO] Skipping empty log: Microsoft-Windows-ManagementTools-RegistryProvider/Operational
+2026-08-05 16:50:34.239 [WARN] Skipping disabled log: Microsoft-Windows-LSA/Operational
+2026-08-05 16:50:34.241 [INFO] Skipping recent log: Microsoft-Windows-LiveId/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.243 [WARN] Skipping disabled log: Microsoft-Windows-LinkLayerDiscoveryProtocol/Operational
+2026-08-05 16:50:34.247 [INFO] Skipping empty log: Microsoft-Windows-LAPS/Operational
+2026-08-05 16:50:34.251 [INFO] Skipping recent log: Microsoft-Windows-LanguagePackSetup/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.254 [INFO] Skipping recent log: Microsoft-Windows-Known Folders API Service (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.256 [INFO] Skipping recent log: Microsoft-Windows-Kernel-WHEA/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.259 [INFO] Skipping empty log: Microsoft-Windows-Kernel-WHEA/Errors
+2026-08-05 16:50:34.261 [INFO] Skipping empty log: Microsoft-Windows-Kernel-WDI/Operational
+2026-08-05 16:50:34.263 [INFO] Skipping empty log: Microsoft-Windows-Kernel-StoreMgr/Operational
+2026-08-05 16:50:34.265 [INFO] Skipping recent log: Microsoft-Windows-Kernel-ShimEngine/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.268 [INFO] Skipping empty log: Microsoft-Windows-Kernel-Power/Thermal-Operational
+2026-08-05 16:50:34.269 [INFO] Skipping empty log: Microsoft-Windows-Kernel-PnP/Driver Watchdog
+2026-08-05 16:50:34.271 [INFO] Skipping recent log: Microsoft-Windows-Kernel-PnP/Device Management (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.274 [INFO] Skipping recent log: Microsoft-Windows-Kernel-PnP/Configuration (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.276 [INFO] Skipping empty log: Microsoft-Windows-Kernel-LiveDump/Operational
+2026-08-05 16:50:34.276 [INFO] Skipping recent log: Microsoft-Windows-Kernel-IO/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.276 [INFO] Skipping empty log: Microsoft-Windows-Kernel-EventTracing/Admin
+2026-08-05 16:50:34.276 [INFO] Skipping empty log: Microsoft-Windows-Kernel-Dump/Operational
+2026-08-05 16:50:34.276 [INFO] Skipping empty log: Microsoft-Windows-Kernel-CPU-Starvation/Operational
+2026-08-05 16:50:34.276 [INFO] Skipping recent log: Microsoft-Windows-Kernel-Cache/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.292 [INFO] Skipping recent log: Microsoft-Windows-Kernel-Boot/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.292 [INFO] Skipping empty log: Microsoft-Windows-Kernel-ApphelpCache/Operational
+2026-08-05 16:50:34.292 [WARN] Skipping disabled log: Microsoft-Windows-Kerberos/Operational
+2026-08-05 16:50:34.292 [WARN] Skipping disabled log: Microsoft-Windows-Kerberos-KdcProxy/Operational
+2026-08-05 16:50:34.292 [INFO] Skipping empty log: Microsoft-Windows-KdsSvc/Operational
+2026-08-05 16:50:34.292 [INFO] Skipping empty log: Microsoft-Windows-Iphlpsvc/Operational
+2026-08-05 16:50:34.292 [INFO] Skipping empty log: Microsoft-Windows-International-RegionalOptionsControlPanel/Operational
+2026-08-05 16:50:34.308 [INFO] Skipping recent log: Microsoft-Windows-IKE/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.308 [INFO] Skipping empty log: Microsoft-Windows-IdCtrls/Operational
+2026-08-05 16:50:34.308 [INFO] Skipping empty log: Microsoft-Windows-Hyper-V-Hypervisor-Operational
+2026-08-05 16:50:34.308 [INFO] Skipping empty log: Microsoft-Windows-Hyper-V-Hypervisor-Admin
+2026-08-05 16:50:34.308 [WARN] Skipping disabled log: Microsoft-Windows-Hyper-V-Guest-Drivers/Operational
+2026-08-05 16:50:34.323 [INFO] Skipping recent log: Microsoft-Windows-Hyper-V-Guest-Drivers/Admin (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.323 [WARN] Skipping disabled log: Microsoft-Windows-HttpService/Trace
+2026-08-05 16:50:34.323 [WARN] Skipping disabled log: Microsoft-Windows-HttpService/Log
+2026-08-05 16:50:34.323 [INFO] Skipping empty log: Microsoft-Windows-HomeGroup Control Panel/Operational
+2026-08-05 16:50:34.323 [INFO] Skipping empty log: Microsoft-Windows-Help/Operational
+2026-08-05 16:50:34.323 [INFO] Skipping recent log: Microsoft-Windows-HelloForBusiness/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.323 [INFO] Skipping recent log: Microsoft-Windows-GroupPolicy/Operational (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.340 [WARN] Skipping disabled log: Microsoft-Windows-glcnd/Admin
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-GenericRoaming/Admin
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-Forwarding/Operational
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-Folder Redirection/Operational
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-FMS/Operational
+2026-08-05 16:50:34.340 [INFO] Skipping recent log: Microsoft-Windows-FileShareShadowCopyProvider/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-FileServices-ServerManager-EventProvider/Operational
+2026-08-05 16:50:34.340 [INFO] Skipping empty log: Microsoft-Windows-FileServices-ServerManager-EventProvider/Admin
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-FederationServices-Deployment/Operational
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-FeatureConfiguration/Operational
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-Fault-Tolerant-Heap/Operational
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-EventCollector/Operational
+2026-08-05 16:50:34.355 [WARN] Skipping disabled log: Microsoft-Windows-ESE/Operational
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-EnrollmentWebService/Admin
+2026-08-05 16:50:34.355 [INFO] Skipping empty log: Microsoft-Windows-EnrollmentPolicyWebService/Admin
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EnhancedStorage-EhStorClass/Operational
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EDP-Audit-TCB/Admin
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EDP-Audit-Regular/Admin
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EDP-Application-Learning/Admin
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EapMethods-Ttls/Operational
+2026-08-05 16:50:34.371 [INFO] Skipping empty log: Microsoft-Windows-EapMethods-Sim/Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-EapMethods-RasTls/Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-EapMethods-RasChap/Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-EapHost/Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-DxgKrnl-Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-DxgKrnl-Admin
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-DSC/Operational
+2026-08-05 16:50:34.387 [INFO] Skipping empty log: Microsoft-Windows-DSC/Admin
+2026-08-05 16:50:34.401 [WARN] Skipping disabled log: Microsoft-Windows-DriverFrameworks-UserMode/Operational
+2026-08-05 16:50:34.403 [WARN] Skipping disabled log: Microsoft-Windows-DNS-Client/Operational
+2026-08-05 16:50:34.403 [WARN] Skipping disabled log: Microsoft-Windows-DisplayColorCalibration/Operational
+2026-08-05 16:50:34.418 [INFO] Skipping empty log: Microsoft-Windows-DiskDiagnosticResolver/Operational
+2026-08-05 16:50:34.432 [INFO] Skipping empty log: Microsoft-Windows-DiskDiagnosticDataCollector/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-DiskDiagnostic/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-DirectoryServices-Deployment/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-Diagnostics-Networking/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-Diagnosis-Scripted/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-Diagnosis-Scripted/Admin
+2026-08-05 16:50:34.435 [INFO] Skipping empty log: Microsoft-Windows-Diagnosis-Scheduled/Operational
+2026-08-05 16:50:34.435 [INFO] Skipping recent log: Microsoft-Windows-Diagnosis-PLA/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.450 [INFO] Skipping recent log: Microsoft-Windows-Diagnosis-PCW/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.450 [INFO] Skipping recent log: Microsoft-Windows-Diagnosis-DPS/Operational (LastWriteTime=8/5/2026 4:47:04 PM)
+2026-08-05 16:50:34.450 [WARN] Skipping disabled log: Microsoft-Windows-Dhcpv6-Client/Operational
+2026-08-05 16:50:34.450 [INFO] Skipping empty log: Microsoft-Windows-Dhcpv6-Client/Admin
+2026-08-05 16:50:34.450 [WARN] Skipping disabled log: Microsoft-Windows-Dhcp-Client/Operational
+2026-08-05 16:50:34.450 [INFO] Skipping empty log: Microsoft-Windows-Dhcp-Client/Admin
+2026-08-05 16:50:34.463 [INFO] Skipping empty log: Microsoft-Windows-DeviceUpdateAgent/Operational
+2026-08-05 16:50:34.466 [INFO] Skipping empty log: Microsoft-Windows-DeviceSync/Operational
+2026-08-05 16:50:34.466 [INFO] Skipping recent log: Microsoft-Windows-DeviceSetupManager/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.466 [INFO] Skipping recent log: Microsoft-Windows-DeviceSetupManager/Admin (LastWriteTime=8/5/2026 4:35:45 PM)
+2026-08-05 16:50:34.466 [INFO] Skipping empty log: Microsoft-Windows-Devices-Background/Operational
+2026-08-05 16:50:34.466 [INFO] Skipping empty log: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Operational
+2026-08-05 16:50:34.466 [INFO] Skipping empty log: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Autopilot
+2026-08-05 16:50:34.482 [INFO] Skipping empty log: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Admin
+2026-08-05 16:50:34.482 [INFO] Skipping empty log: Microsoft-Windows-DeviceGuard/Operational
+2026-08-05 16:50:34.482 [INFO] Skipping empty log: Microsoft-Windows-DateTimeControlPanel/Operational
+2026-08-05 16:50:34.482 [INFO] Skipping empty log: Microsoft-Windows-DataIntegrityScan/CrashRecovery
+2026-08-05 16:50:34.482 [INFO] Skipping recent log: Microsoft-Windows-DataIntegrityScan/Admin (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.494 [INFO] Skipping empty log: Microsoft-Windows-DAL-Provider/Operational
+2026-08-05 16:50:34.498 [INFO] Skipping recent log: Microsoft-Windows-Crypto-NCrypt/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.498 [INFO] Skipping empty log: Microsoft-Windows-Crypto-NCrypt/KeyMgmt
+2026-08-05 16:50:34.498 [INFO] Skipping empty log: Microsoft-Windows-Crypto-NCrypt/CertInUse
+2026-08-05 16:50:34.498 [INFO] Skipping recent log: Microsoft-Windows-Crypto-DPAPI/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.498 [WARN] Skipping disabled log: Microsoft-Windows-Crypto-DPAPI/Debug
+2026-08-05 16:50:34.498 [INFO] Skipping empty log: Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc
+2026-08-05 16:50:34.513 [INFO] Skipping empty log: Microsoft-Windows-CorruptedFileRecovery-Server/Operational
+2026-08-05 16:50:34.513 [INFO] Skipping empty log: Microsoft-Windows-CorruptedFileRecovery-Client/Operational
+2026-08-05 16:50:34.513 [INFO] Skipping empty log: Microsoft-Windows-CoreApplication/Operational
+2026-08-05 16:50:34.513 [INFO] Skipping recent log: Microsoft-Windows-Containers-Wcifs/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.513 [INFO] Skipping recent log: Microsoft-Windows-Containers-BindFlt/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.513 [INFO] Skipping empty log: Microsoft-Windows-Compat-Appraiser/Operational
+2026-08-05 16:50:34.525 [INFO] Skipping recent log: Microsoft-Windows-CodeIntegrity/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.530 [INFO] Skipping recent log: Microsoft-Windows-CloudStore/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.530 [WARN] Skipping disabled log: Microsoft-Windows-CloudStore/Debug
+2026-08-05 16:50:34.530 [INFO] Skipping empty log: Microsoft-Windows-Cleanmgr/Diagnostic
+2026-08-05 16:50:34.530 [WARN] Skipping disabled log: Microsoft-Windows-CertPoleEng/Operational
+2026-08-05 16:50:34.530 [INFO] Skipping empty log: Microsoft-Windows-CertificateServicesClient-Lifecycle-User/Operational
+2026-08-05 16:50:34.530 [INFO] Skipping empty log: Microsoft-Windows-CertificateServicesClient-Lifecycle-System/Operational
+2026-08-05 16:50:34.545 [WARN] Skipping disabled log: Microsoft-Windows-CertificateServicesClient-CredentialRoaming/Operational
+2026-08-05 16:50:34.545 [INFO] Skipping empty log: Microsoft-Windows-CertificateServices-Deployment/Operational
+2026-08-05 16:50:34.545 [WARN] Skipping disabled log: Microsoft-Windows-CAPI2/Operational
+2026-08-05 16:50:34.545 [INFO] Skipping empty log: Microsoft-Windows-BranchCacheSMB/Operational
+2026-08-05 16:50:34.545 [WARN] Skipping disabled log: Microsoft-Windows-Bluetooth-Policy/Operational
+2026-08-05 16:50:34.557 [INFO] Skipping empty log: Microsoft-Windows-Bluetooth-MTPEnum/Operational
+2026-08-05 16:50:34.561 [WARN] Skipping disabled log: Microsoft-Windows-Bluetooth-Bthmini/Operational
+2026-08-05 16:50:34.561 [INFO] Skipping empty log: Microsoft-Windows-Bluetooth-BthLEPrepairing/Operational
+2026-08-05 16:50:34.561 [INFO] Skipping recent log: Microsoft-Windows-Bits-Client/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.561 [WARN] Skipping disabled log: Microsoft-Windows-Bits-Client/Analytic
+2026-08-05 16:50:34.561 [WARN] Skipping disabled log: Microsoft-Windows-BitLocker/BitLocker Operational
+2026-08-05 16:50:34.577 [INFO] Skipping empty log: Microsoft-Windows-BitLocker/BitLocker Management
+2026-08-05 16:50:34.577 [INFO] Skipping empty log: Microsoft-Windows-BitLocker-DrivePreparationTool/Operational
+2026-08-05 16:50:34.577 [INFO] Skipping empty log: Microsoft-Windows-BitLocker-DrivePreparationTool/Admin
+2026-08-05 16:50:34.588 [INFO] Skipping recent log: Microsoft-Windows-Biometrics/Operational (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.593 [INFO] Skipping empty log: Microsoft-Windows-BestPractices/Operational
+2026-08-05 16:50:34.593 [WARN] Skipping disabled log: Microsoft-Windows-Base-Filtering-Engine-Resource-Flows/Operational
+2026-08-05 16:50:34.593 [WARN] Skipping disabled log: Microsoft-Windows-Base-Filtering-Engine-Connections/Operational
+2026-08-05 16:50:34.608 [INFO] Skipping empty log: Microsoft-Windows-Backup
+2026-08-05 16:50:34.608 [WARN] Skipping disabled log: Microsoft-Windows-BackgroundTransfer-ContentPrefetcher/Operational
+2026-08-05 16:50:34.608 [INFO] Skipping empty log: Microsoft-Windows-BackgroundTaskInfrastructure/Operational
+2026-08-05 16:50:34.608 [WARN] Skipping disabled log: Microsoft-Windows-Authentication/ProtectedUserSuccesses-DomainController
+2026-08-05 16:50:34.619 [WARN] Skipping disabled log: Microsoft-Windows-Authentication/ProtectedUserFailures-DomainController
+2026-08-05 16:50:34.619 [WARN] Skipping disabled log: Microsoft-Windows-Authentication/ProtectedUser-Client
+2026-08-05 16:50:34.625 [WARN] Skipping disabled log: Microsoft-Windows-Authentication/AuthenticationPolicyFailures-DomainController
+2026-08-05 16:50:34.625 [INFO] Skipping empty log: Microsoft-Windows-Authentication User Interface/Operational
+2026-08-05 16:50:34.625 [INFO] Skipping empty log: Microsoft-Windows-Audio/PlaybackManager
+2026-08-05 16:50:34.625 [INFO] Skipping empty log: Microsoft-Windows-Audio/Operational
+2026-08-05 16:50:34.625 [WARN] Skipping disabled log: Microsoft-Windows-Audio/Informational
+2026-08-05 16:50:34.625 [WARN] Skipping disabled log: Microsoft-Windows-Audio/GlitchDetection
+2026-08-05 16:50:34.640 [INFO] Skipping empty log: Microsoft-Windows-Audio/CaptureMonitor
+2026-08-05 16:50:34.640 [WARN] Skipping disabled log: Microsoft-Windows-ASN1/Operational
+2026-08-05 16:50:34.640 [INFO] Skipping recent log: Microsoft-Windows-AppxPackaging/Operational (LastWriteTime=8/5/2026 7:44:25 AM)
+2026-08-05 16:50:34.640 [INFO] Skipping empty log: Microsoft-Windows-AppXDeploymentServer/Restricted
+2026-08-05 16:50:34.651 [INFO] Skipping recent log: Microsoft-Windows-AppXDeploymentServer/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.651 [INFO] Skipping recent log: Microsoft-Windows-AppXDeployment/Operational (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.656 [INFO] Skipping recent log: Microsoft-Windows-AppReadiness/Operational (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.656 [INFO] Skipping recent log: Microsoft-Windows-AppReadiness/Admin (LastWriteTime=8/3/2026 4:24:25 AM)
+2026-08-05 16:50:34.672 [INFO] Skipping recent log: Microsoft-Windows-AppModel-Runtime/Admin (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.672 [INFO] Skipping empty log: Microsoft-Windows-AppLocker/Packaged app-Execution
+2026-08-05 16:50:34.672 [INFO] Skipping empty log: Microsoft-Windows-AppLocker/Packaged app-Deployment
+2026-08-05 16:50:34.682 [INFO] Skipping empty log: Microsoft-Windows-AppLocker/MSI and Script
+2026-08-05 16:50:34.682 [INFO] Skipping empty log: Microsoft-Windows-AppLocker/EXE and DLL
+2026-08-05 16:50:34.688 [INFO] Skipping empty log: Microsoft-Windows-Application-Experience/Steps-Recorder
+2026-08-05 16:50:34.688 [INFO] Skipping recent log: Microsoft-Windows-Application-Experience/Program-Telemetry (LastWriteTime=8/5/2026 4:49:12 PM)
+2026-08-05 16:50:34.688 [INFO] Skipping empty log: Microsoft-Windows-Application-Experience/Program-Inventory
+2026-08-05 16:50:34.688 [INFO] Skipping empty log: Microsoft-Windows-Application-Experience/Program-Compatibility-Troubleshooter
+2026-08-05 16:50:34.703 [INFO] Skipping empty log: Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant
+2026-08-05 16:50:34.703 [INFO] Skipping empty log: Microsoft-Windows-Application Server-Applications/Operational
+2026-08-05 16:50:34.703 [INFO] Skipping empty log: Microsoft-Windows-Application Server-Applications/Admin
+2026-08-05 16:50:34.703 [INFO] Skipping empty log: Microsoft-Windows-ApplicabilityEngine/Operational
+2026-08-05 16:50:34.713 [INFO] Skipping empty log: Microsoft-Windows-AppID/Operational
+2026-08-05 16:50:34.713 [INFO] Skipping empty log: Microsoft-Windows-AppHost/Admin
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-Windows-AllJoyn/Operational
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-Windows-All-User-Install-Agent/Admin
+2026-08-05 16:50:34.720 [INFO] Skipping recent log: Microsoft-Windows-AAD/Operational (LastWriteTime=8/5/2026 4:21:34 PM)
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-User Experience Virtualization-SQM Uploader/Operational
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-User Experience Virtualization-IPC/Operational
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-User Experience Virtualization-App Agent/Operational
+2026-08-05 16:50:34.720 [INFO] Skipping empty log: Microsoft-User Experience Virtualization-Agent Driver/Operational
+2026-08-05 16:50:34.735 [INFO] Skipping empty log: Microsoft-System-Diagnostics-DiagnosticInvoker/Operational
+2026-08-05 16:50:34.735 [INFO] Skipping empty log: Microsoft-ServerCore-ShellLauncher/Admin
+2026-08-05 16:50:34.735 [INFO] Skipping empty log: Microsoft-Rdms-UI/Operational
+2026-08-05 16:50:34.735 [INFO] Skipping empty log: Microsoft-Rdms-UI/Admin
+2026-08-05 16:50:34.744 [WARN] Skipping disabled log: Microsoft-Management-UI/Admin
+2026-08-05 16:50:34.744 [INFO] Skipping recent log: Microsoft-Client-Licensing-Platform/Admin (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:50:34.744 [INFO] Skipping empty log: Microsoft-AppV-Client/Virtual Applications
+2026-08-05 16:50:34.751 [INFO] Skipping empty log: Microsoft-AppV-Client/Operational
+2026-08-05 16:50:34.751 [INFO] Skipping empty log: Microsoft-AppV-Client/Admin
+2026-08-05 16:50:34.751 [WARN] Skipping disabled log: ForwardedEvents
+2026-08-05 16:50:34.751 [INFO] No candidate logs matched the age filter (OlderThanDays=3, CutoffDate=8/2/2026 4:50:32 PM). This is expected when selected logs have recent activity.
+2026-08-05 16:50:34.751 [INFO] Dry run: 0 log(s) would be cleared, deleting 0 total record(s).
+2026-08-05 16:50:34.751 [INFO] Run summary (dry run mode):
+2026-08-05 16:50:34.767 [INFO]   LogsEvaluated: 419
+2026-08-05 16:50:34.767 [INFO]   CandidateLogs: 0
+2026-08-05 16:50:34.767 [INFO]   CandidateRecords: 0
+2026-08-05 16:50:34.767 [INFO]   ArchivedLogs: 0
+2026-08-05 16:50:34.767 [INFO]   ClearedLogs: 0
+2026-08-05 16:50:34.776 [INFO]   DryRunLogs: 0
+2026-08-05 16:50:34.776 [INFO]   DryRunRecords: 0
+2026-08-05 16:50:34.783 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:50:34.783 [INFO]   SkippedLogs: 419
+2026-08-05 16:50:34.783 [INFO]   RollbackRestored: 0
+2026-08-05 16:50:34.783 [INFO]   Errors: 0

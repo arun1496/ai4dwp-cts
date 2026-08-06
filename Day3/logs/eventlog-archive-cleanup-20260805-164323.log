@@ -1,0 +1,15 @@
+2026-08-05 16:43:23.630 [INFO] Skipping recent log: Application (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:43:23.630 [INFO] Skipping recent log: System (LastWriteTime=8/5/2026 4:40:58 PM)
+2026-08-05 16:43:23.630 [WARN] No successful archive/clear operations; manifest not created.
+2026-08-05 16:43:23.630 [INFO] Run summary:
+2026-08-05 16:43:23.645 [INFO]   LogsEvaluated: 2
+2026-08-05 16:43:23.645 [INFO]   CandidateLogs: 0
+2026-08-05 16:43:23.645 [INFO]   CandidateRecords: 0
+2026-08-05 16:43:23.645 [INFO]   ArchivedLogs: 0
+2026-08-05 16:43:23.645 [INFO]   ClearedLogs: 0
+2026-08-05 16:43:23.655 [INFO]   DryRunLogs: 0
+2026-08-05 16:43:23.655 [INFO]   DryRunRecords: 0
+2026-08-05 16:43:23.661 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:43:23.661 [INFO]   SkippedLogs: 2
+2026-08-05 16:43:23.661 [INFO]   RollbackRestored: 0
+2026-08-05 16:43:23.661 [INFO]   Errors: 0

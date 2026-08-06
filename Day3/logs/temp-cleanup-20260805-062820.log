@@ -1,0 +1,9 @@
+2026-08-05 06:28:20.653 [INFO] Cleanup started. DryRun=False; OlderThanDays=0; CutoffDate=8/5/2026 6:28:20 AM
+2026-08-05 06:28:20.653 [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+2026-08-05 06:28:20.685 [WARN] Locked file skipped: C:\Users\labuser\AppData\Local\Temp\2\060b1628-c6ae-402d-9d3e-61e4a19d21f5.tmp
+2026-08-05 06:28:20.716 [INFO] Deleted (backup retained): C:\Users\labuser\AppData\Local\Temp\2\cv_debug.log
+2026-08-05 06:28:20.732 [INFO] Deleted (backup retained): C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+2026-08-05 06:28:20.763 [INFO] Deleted (backup retained): C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+2026-08-05 06:28:20.763 [INFO] Scanning target path: C:\Windows\Temp
+2026-08-05 06:28:20.779 [INFO] Rollback manifest created: C:\Users\labuser\Documents\Training\Day3\temp-cleanup-state\manifest-20260805-062820-fb8ea683-44b9-4375-befa-a78e54feea05.csv
+2026-08-05 06:28:20.966 [INFO] Cleanup summary: PathsChecked=2, FilesScanned=4, Candidates=4, Deleted=3, DryRun=0, Locked=1, Skipped=0, Errors=0

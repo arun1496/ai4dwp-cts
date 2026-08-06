@@ -1,0 +1,16 @@
+2026-08-05 16:47:54.110 [INFO] Skipping recent log: Application (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:47:54.114 [INFO] Skipping recent log: System (LastWriteTime=8/5/2026 4:45:10 PM)
+2026-08-05 16:47:54.119 [INFO] No candidate logs matched the age filter (OlderThanDays=10, CutoffDate=7/26/2026 4:47:54 PM). This is expected when selected logs have recent activity.
+2026-08-05 16:47:54.132 [INFO] Dry run: 0 log(s) would be cleared, deleting 0 total record(s).
+2026-08-05 16:47:54.135 [INFO] Run summary (dry run mode):
+2026-08-05 16:47:54.142 [INFO]   LogsEvaluated: 2
+2026-08-05 16:47:54.150 [INFO]   CandidateLogs: 0
+2026-08-05 16:47:54.159 [INFO]   CandidateRecords: 0
+2026-08-05 16:47:54.164 [INFO]   ArchivedLogs: 0
+2026-08-05 16:47:54.171 [INFO]   ClearedLogs: 0
+2026-08-05 16:47:54.174 [INFO]   DryRunLogs: 0
+2026-08-05 16:47:54.183 [INFO]   DryRunRecords: 0
+2026-08-05 16:47:54.194 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:47:54.197 [INFO]   SkippedLogs: 2
+2026-08-05 16:47:54.202 [INFO]   RollbackRestored: 0
+2026-08-05 16:47:54.208 [INFO]   Errors: 0

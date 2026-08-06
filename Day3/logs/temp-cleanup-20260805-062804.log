@@ -1,0 +1,9 @@
+2026-08-05 06:28:04.685 [INFO] Cleanup started. DryRun=True; OlderThanDays=0; CutoffDate=8/5/2026 6:28:04 AM
+2026-08-05 06:28:04.700 [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+2026-08-05 06:28:04.700 [INFO] DRY-RUN would delete: C:\Users\labuser\AppData\Local\Temp\2\060b1628-c6ae-402d-9d3e-61e4a19d21f5.tmp
+2026-08-05 06:28:04.700 [INFO] DRY-RUN would delete: C:\Users\labuser\AppData\Local\Temp\2\cv_debug.log
+2026-08-05 06:28:04.700 [INFO] DRY-RUN would delete: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+2026-08-05 06:28:04.700 [INFO] DRY-RUN would delete: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+2026-08-05 06:28:04.716 [INFO] Scanning target path: C:\Windows\Temp
+2026-08-05 06:28:04.716 [WARN] No files were deleted. Manifest not created.
+2026-08-05 06:28:04.778 [INFO] Cleanup summary: PathsChecked=2, FilesScanned=4, Candidates=4, Deleted=0, DryRun=4, Locked=0, Skipped=1, Errors=0

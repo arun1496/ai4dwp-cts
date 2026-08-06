@@ -1,0 +1,5 @@
+2026-08-05 06:27:44.506 [INFO] Cleanup started. DryRun=False; OlderThanDays=7; CutoffDate=7/29/2026 6:27:44 AM
+2026-08-05 06:27:44.513 [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+2026-08-05 06:27:44.513 [INFO] Scanning target path: C:\Windows\Temp
+2026-08-05 06:27:44.522 [WARN] No files were deleted. Manifest not created.
+2026-08-05 06:27:44.538 [INFO] Cleanup summary: PathsChecked=2, FilesScanned=0, Candidates=0, Deleted=0, DryRun=0, Locked=0, Skipped=1, Errors=0

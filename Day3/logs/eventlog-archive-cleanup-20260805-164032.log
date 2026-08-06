@@ -1,0 +1,15 @@
+2026-08-05 16:40:32.203 [INFO] Skipping recent log: Application (LastWriteTime=8/5/2026 4:30:45 PM)
+2026-08-05 16:40:32.219 [INFO] Skipping recent log: System (LastWriteTime=8/5/2026 4:39:12 PM)
+2026-08-05 16:40:32.219 [INFO] Dry run: 0 log(s) would be cleared, deleting 0 total record(s).
+2026-08-05 16:40:32.219 [INFO] Run summary (dry run mode):
+2026-08-05 16:40:32.219 [INFO]   LogsEvaluated: 2
+2026-08-05 16:40:32.219 [INFO]   CandidateLogs: 0
+2026-08-05 16:40:32.219 [INFO]   CandidateRecords: 0
+2026-08-05 16:40:32.219 [INFO]   ArchivedLogs: 0
+2026-08-05 16:40:32.235 [INFO]   ClearedLogs: 0
+2026-08-05 16:40:32.235 [INFO]   DryRunLogs: 0
+2026-08-05 16:40:32.235 [INFO]   DryRunRecords: 0
+2026-08-05 16:40:32.235 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:40:32.235 [INFO]   SkippedLogs: 2
+2026-08-05 16:40:32.235 [INFO]   RollbackRestored: 0
+2026-08-05 16:40:32.235 [INFO]   Errors: 0

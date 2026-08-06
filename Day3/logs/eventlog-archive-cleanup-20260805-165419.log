@@ -1,0 +1,19 @@
+2026-08-05 16:54:19.429 [INFO] Rollback requested. Manifest: C:\Users\labuser\Documents\Training\Day3\eventlog-state\manifest-20260805-164438-53bfd6f3-9d3a-43b8-b7ef-cef68d16f8f6.csv
+2026-08-05 16:54:19.429 [INFO] Created rollback restore folder: C:\Users\labuser\Documents\Training\day3\eventlog-state\rollback-restored-20260805-165419-a84c13ab-9a81-41e7-807d-284bcc4baf58
+2026-08-05 16:54:19.436 [INFO] Rollback restored archive copy for log 'Microsoft-Windows-SMBServer/Security' to 'C:\Users\labuser\Documents\Training\day3\eventlog-state\rollback-restored-20260805-165419-a84c13ab-9a81-41e7-807d-284bcc4baf58\Microsoft-Windows-SMBServer_Security-20260805.evtx'
+2026-08-05 16:54:19.436 [INFO] Rollback restored archive copy for log 'Microsoft-Windows-MUI/Operational' to 'C:\Users\labuser\Documents\Training\day3\eventlog-state\rollback-restored-20260805-165419-a84c13ab-9a81-41e7-807d-284bcc4baf58\Microsoft-Windows-MUI_Operational-20260805.evtx'
+2026-08-05 16:54:19.436 [INFO] Rollback restored archive copy for log 'Microsoft-Windows-Dhcp-Client/Admin' to 'C:\Users\labuser\Documents\Training\day3\eventlog-state\rollback-restored-20260805-165419-a84c13ab-9a81-41e7-807d-284bcc4baf58\Microsoft-Windows-Dhcp-Client_Admin-20260805.evtx'
+2026-08-05 16:54:19.436 [INFO] Rollback restored archive copy for log 'Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Admin' to 'C:\Users\labuser\Documents\Training\day3\eventlog-state\rollback-restored-20260805-165419-a84c13ab-9a81-41e7-807d-284bcc4baf58\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider_Admin-20260805.evtx'
+2026-08-05 16:54:19.452 [WARN] Rollback restored archive files for audit/recovery. Native Windows event channels cannot be repopulated from .evtx backups automatically.
+2026-08-05 16:54:19.452 [INFO] Run summary (rollback mode):
+2026-08-05 16:54:19.452 [INFO]   LogsEvaluated: 0
+2026-08-05 16:54:19.452 [INFO]   CandidateLogs: 0
+2026-08-05 16:54:19.461 [INFO]   CandidateRecords: 0
+2026-08-05 16:54:19.461 [INFO]   ArchivedLogs: 0
+2026-08-05 16:54:19.468 [INFO]   ClearedLogs: 0
+2026-08-05 16:54:19.468 [INFO]   DryRunLogs: 0
+2026-08-05 16:54:19.468 [INFO]   DryRunRecords: 0
+2026-08-05 16:54:19.468 [INFO]   AlreadyArchivedToday: 0
+2026-08-05 16:54:19.468 [INFO]   SkippedLogs: 0
+2026-08-05 16:54:19.468 [INFO]   RollbackRestored: 4
+2026-08-05 16:54:19.483 [INFO]   Errors: 0
