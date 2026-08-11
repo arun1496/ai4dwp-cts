@@ -1,0 +1,2 @@
+Day7/Intune-Packages/**/*.msi filter=lfs diff=lfs merge=lfs -text
+Day7/Intune-Packages/**/*.intunewin filter=lfs diff=lfs merge=lfs -text
